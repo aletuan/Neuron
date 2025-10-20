@@ -1,4 +1,11 @@
-Name,Age,City,Salary
-Alice,25,Hanoi,1200
-Bob,30,HCM,1500
-Charlie,35,Danang,1800
+Name,Age,City,Salary,Department,Years_Experience
+Alice,25,Hanoi,1200,Engineering,2
+Bob,30,HCM,1500,Marketing,5
+Charlie,35,Danang,1800,Engineering,8
+Diana,28,Hanoi,1400,Sales,4
+Eve,32,HCM,1600,Engineering,7
+Frank,27,Danang,1300,Marketing,3
+Grace,29,Hanoi,1450,Sales,5
+Henry,33,HCM,1700,Engineering,9
+Ivy,26,Danang,1250,Marketing,2
+Jack,31,Hanoi,1550,Sales,6
